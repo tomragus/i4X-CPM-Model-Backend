@@ -8,4 +8,4 @@ Anyone in the group is welcome to tweak what I did here and optimize the models 
 
 Next steps would be to express data concerns to Chris and see what he can do for us, and then we need to start thinkng about how this is going to get integrated with the frontend. Also we need to think about what the UI is going to look like.
 
-![Example Curve]('/Users/tomragus/Desktop/WhatsApp Image 2026-03-26 at 21.04.57.jpeg')
+![WhatsApp Image 2026-03-26 at 21 04 57](https://github.com/user-attachments/assets/124c1149-4690-4903-9e1b-c39e890e367e)

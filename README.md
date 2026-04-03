@@ -29,6 +29,7 @@ Some Line 6 examples:
 
 <img width="847" height="365" alt="Screenshot 2026-04-03 at 3 51 51 PM" src="https://github.com/user-attachments/assets/6412c55b-d8d9-4abb-a8ab-a3b3a0cf76de" />
 
+<img width="269" height="547" alt="Screenshot 2026-04-03 at 3 55 41 PM" src="https://github.com/user-attachments/assets/7b668cde-6df1-4f07-83e1-3c6233a9045c" />
 
 
 

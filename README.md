@@ -17,6 +17,8 @@ Next steps would be to express data concerns to Chris and see what he can do for
 
 [Link to login to e-Builder](https://app.e-builder.net/auth)
 
+------------------
+
 ### Update: Apr 3
 
 Next big change will come with more data, but! The models for Line 6 only actually perform MUCH BETTER than the regular models (best R^2 score 0.6777) even without the full data! This surprising and really great news

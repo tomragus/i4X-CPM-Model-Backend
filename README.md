@@ -1,6 +1,6 @@
 # i4X-CPM-Model-Backend
 
-### [Main training notebook](https://github.com/tomragus/i4X-CPM-Model-Backend/blob/main/drafting_notebook.ipynb)
+### [Main training notebook (totals)](https://github.com/tomragus/i4X-CPM-Model-Backend/blob/main/training_notebook_totals.ipynb)
 
 This repo is for developing and maintaining the backend for our predictive model which we are building for the UCSD Capital Program Management through the i4X (Innovation for Change) program. Our goal is to build a model that takes in CSV files containing columns for cost data (Gross Sq Footage, Projected Budget,	Projected Commitments,	Estimate at Completion,	Actuals To Date,	Actuals + Projections) and generate an S-cost projection and accompanying table showing the cost/month over a fixed span of time. 
 

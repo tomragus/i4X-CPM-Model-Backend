@@ -11,7 +11,7 @@ With my current configuration I have achieved a median R^2 score (comparing the 
 
 Anyone in the group is welcome to tweak what I did here and optimize the models further. I am sure that better performance is somehow possible from the model side.
 
-### 👉 [Front-end on Vercel](https://ucsd-capital-analytics.vercel.app/dashboard)
+### 👉 [Front-end on Vercel](https://ucsd-capital-analytics.vercel.app)
 
 ![WhatsApp Image 2026-03-26 at 21 04 57](https://github.com/user-attachments/assets/124c1149-4690-4903-9e1b-c39e890e367e)
 

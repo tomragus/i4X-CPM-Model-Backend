@@ -1,0 +1,55 @@
+{
+  "Small": {
+    "n_projects": 41,
+    "median_budget_usd": 46075.0,
+    "min_budget_usd": 3766.0,
+    "max_budget_usd": 237280.0,
+    "median_duration_months": 18.0,
+    "min_duration_months": 5.0,
+    "max_duration_months": 76.0,
+    "median_k": 0.4553,
+    "median_t0_pct": 40.2,
+    "model_median_r2": 0.979
+  },
+  "Medium": {
+    "n_projects": 89,
+    "median_budget_usd": 1581777.0,
+    "min_budget_usd": 250934.0,
+    "max_budget_usd": 4943429.0,
+    "median_duration_months": 44.0,
+    "min_duration_months": 7.0,
+    "max_duration_months": 119.0,
+    "median_k": 0.4255,
+    "median_t0_pct": 49.0,
+    "model_median_r2": 0.987
+  },
+  "Large": {
+    "n_projects": 60,
+    "median_budget_usd": 9637978.0,
+    "min_budget_usd": 5033921.0,
+    "max_budget_usd": 43692000.0,
+    "median_duration_months": 54.5,
+    "min_duration_months": 17.0,
+    "max_duration_months": 106.0,
+    "median_k": 0.3585,
+    "median_t0_pct": 50.0,
+    "model_median_r2": 0.994
+  },
+  "Mega": {
+    "n_projects": 21,
+    "median_budget_usd": 161133140.0,
+    "min_budget_usd": 51790400.0,
+    "max_budget_usd": 936289300.0,
+    "median_duration_months": 67.0,
+    "min_duration_months": 42.0,
+    "max_duration_months": 122.0,
+    "median_k": 0.1787,
+    "median_t0_pct": 59.9,
+    "model_median_r2": 0.996
+  },
+  "_overall": {
+    "n_projects": 211,
+    "data_range": "2011\u20132025",
+    "total_portfolio_usd": 6609505273.0
+  }
+}

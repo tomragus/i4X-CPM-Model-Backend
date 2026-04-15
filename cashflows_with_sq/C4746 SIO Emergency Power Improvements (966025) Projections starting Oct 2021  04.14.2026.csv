@@ -1,0 +1,134 @@
+
+
+ ,Line Item,Description,Projected Budget,Projected Commitments,Estimate at Completion,Actuals To Date,Actuals + Projections
+,00,Site Clearance of Hazardous or Obstructing Existing Conditions Prior to Prime Contract,"6,000.00","6,000.00","6,000.00","6,000.00","6,000.00"
+ ,00.001,Environmental Site Conditions,0.00,0.00,0.00,0.00,0.00
+ ,00.002,"Removal and Disposal of Haz Mat (e,g, Asbestos, Lead, PCB's)",0.00,0.00,0.00,0.00,0.00
+ ,00.003,Relocation or Replacement of Existing Facilities,0.00,0.00,0.00,0.00,0.00
+ ,00.004,Demolition of Existing Facilities,"6,000.00","6,000.00","6,000.00","6,000.00","6,000.00"
+ ,00.005,Temporary Fencing and Facilities Required for Site Clearance,0.00,0.00,0.00,0.00,0.00
+ ,00.006,Earthwork and Shoring Required for Site Clearance,0.00,0.00,0.00,0.00,0.00
+ ,00.007,Storm water BMP's During Site Clearance,0.00,0.00,0.00,0.00,0.00
+ ,00.008,Removal and Disposal of Contaminated Soils,0.00,0.00,0.00,0.00,0.00
+ ,00.099,Other Site Clearance,0.00,0.00,0.00,0.00,0.00
+,01,Building Construction & Site Cost Inside Five Feet of Building Perimeter,"6,177,447.15","6,177,267.15","6,249,048.05","6,105,486.25","6,105,486.25"
+ ,01.101,Prime General Contractor (Less Code 2 and 4 Costs),"6,140,572.18","6,068,791.28","6,140,572.18","6,068,791.28","6,068,791.28"
+ ,01.102,Compensable Construction Delay,0.00,0.00,0.00,0.00,0.00
+ ,01.103,Approved Change Orders,0.00,0.00,0.00,0.00,0.00
+ ,01.104,Estimated Change Orders,0.00,0.00,0.00,0.00,0.00
+ ,01.105,Contractor Claims,0.00,0.00,0.00,0.00,0.00
+ ,01.106,Project Managers Pending List,0.00,0.00,0.00,0.00,0.00
+ ,01.107,Other Building/Specialty Contractors (Not Under Prime),0.00,0.00,0.00,0.00,0.00
+ ,01.108,Facilites Management/Engineering Work Orders,"8,724.23","80,325.13","80,325.13","8,544.23","8,544.23"
+ ,01.109,Telecommunications (ACT),"21,638.74","21,638.74","21,638.74","21,638.74","21,638.74"
+ ,01.110,Data Processing,0.00,0.00,0.00,0.00,0.00
+ ,01.111,"Lock Keying, FM Lock Shop Work Orders",0.00,0.00,0.00,0.00,0.00
+ ,01.112,Builders Risk Insurance,"6,512.00","6,512.00","6,512.00","6,512.00","6,512.00"
+ ,01.113,"Group 1 Equipment, Owner Purchased Contractor Installed",0.00,0.00,0.00,0.00,0.00
+ ,01.114,"Security Alarms, Video Security, Security Manpower",0.00,0.00,0.00,0.00,0.00
+ ,01.115,Building Signage,0.00,0.00,0.00,0.00,0.00
+ ,01.116,University Controlled Insurance Program (UCIP),0.00,0.00,0.00,0.00,0.00
+ ,01.117,Adjacent Departmental Impacts,0.00,0.00,0.00,0.00,0.00
+ ,01.118,Infection Control,0.00,0.00,0.00,0.00,0.00
+ ,01.119,"Utility Shutdowns, Temporary Utility Services and Facilities",0.00,0.00,0.00,0.00,0.00
+ ,01.199,Other Building Construction,0.00,0.00,0.00,0.00,0.00
+,02,"Exterior Utility Work, Outside Five Feet of Building Perimeter",0.00,0.00,0.00,0.00,0.00
+ ,02.201,Other Site Utility/Specialty Contractors NOT Under Prime,0.00,0.00,0.00,0.00,0.00
+ ,02.202,"Prime General Contractor, Site Utility Component",0.00,0.00,0.00,0.00,0.00
+ ,02.299,Other Exterior Utilities,0.00,0.00,0.00,0.00,0.00
+,03,"Group 2 & 3 Furnishings & Equipment, Owner Furnished Owner Installed (OFOI)",0.00,0.00,0.00,0.00,0.00
+ ,03.301,Moveable Equipment & Furnishings,0.00,0.00,0.00,0.00,0.00
+ ,03.302,Material Management Services,0.00,0.00,0.00,0.00,0.00
+ ,03.303,Moving Expenses,0.00,0.00,0.00,0.00,0.00
+ ,03.304,Heavy Custodial Equipment,0.00,0.00,0.00,0.00,0.00
+ ,03.305,Refuse Collection Equipment,0.00,0.00,0.00,0.00,0.00
+ ,03.306,"House Cleaning, Sterile Clean",0.00,0.00,0.00,0.00,0.00
+ ,03.307,Electrical/Data Support for Systems Furniture,0.00,0.00,0.00,0.00,0.00
+ ,03.399,"Other Furnishings & Equipment, Owner Furnished Owner Installed",0.00,0.00,0.00,0.00,0.00
+,04,"Site Development, Outside Five Feet of Building Perimeter",220.00,220.00,220.00,220.00,220.00
+ ,04.401,"Prime General Contractor, Site Hardscape Component",0.00,0.00,0.00,0.00,0.00
+ ,04.402,"Prime General Contractor, Site Landscape Component",0.00,0.00,0.00,0.00,0.00
+ ,04.403,"Prime General Contractor, Site Lighting Component",0.00,0.00,0.00,0.00,0.00
+ ,04.404,Site Signage,0.00,0.00,0.00,0.00,0.00
+ ,04.405,"Prime General Contractor, Other Site Development Component",0.00,0.00,0.00,0.00,0.00
+ ,04.406,Other Site Development/Specialty Contractors NOT Under Prime,0.00,0.00,0.00,0.00,0.00
+ ,04.407,Environmental Site Mitigation,0.00,0.00,0.00,0.00,0.00
+ ,04.408,Offsite Site DeveIopment,0.00,0.00,0.00,0.00,0.00
+ ,04.499,Other Site Development,220.00,220.00,220.00,220.00,220.00
+,05,External Design Consultant Fees,"893,524.00","893,524.00","893,524.00","878,745.57","878,745.57"
+ ,05.501,Executive Architect/Engineer,"748,354.00","748,354.00","748,354.00","741,943.65","741,943.65"
+ ,05.502,Interior/Graphic Designer,0.00,0.00,0.00,0.00,0.00
+ ,05.503,Special Foundation Design (non-geotechnical),0.00,0.00,0.00,0.00,0.00
+ ,05.504,Foundation Design Contingency,0.00,0.00,0.00,0.00,0.00
+ ,05.505,Geotechnical Design Contingency (Unforeseen Soil Conditions),"7,695.00","7,695.00","7,695.00","7,310.25","7,310.25"
+ ,05.506,Project Management Consultants,0.00,0.00,0.00,0.00,0.00
+ ,05.507,Construction Management and/or Scheduling Consultants,0.00,0.00,0.00,0.00,0.00
+ ,05.508,Building Code/Plan Review and Fire/Life Safety Consultant,0.00,0.00,0.00,0.00,0.00
+ ,05.509,Cost Estimating Consultants,"20,650.00","20,650.00","20,650.00","15,750.00","15,750.00"
+ ,05.510,Photographic Services,0.00,0.00,0.00,0.00,0.00
+ ,05.511,Executive Architect/Engineer Reimbursable Costs,"1,500.00","1,500.00","1,500.00",688.84,688.84
+ ,05.512,Executive A/E Additional Services/Design Change Authorizations,"26,670.00","26,670.00","26,670.00","26,670.00","26,670.00"
+ ,05.513,Consulting IOR/Construction Inspection,"36,000.00","36,000.00","36,000.00","33,727.83","33,727.83"
+ ,05.514,Medical Center Operational CostslWork Requests,0.00,0.00,0.00,0.00,0.00
+ ,05.515,Medical Center Equipment Planners,0.00,0.00,0.00,0.00,0.00
+ ,05.516,Medical Center Planners,0.00,0.00,0.00,0.00,0.00
+ ,05.599,Other External Design Consultants,"52,655.00","52,655.00","52,655.00","52,655.00","52,655.00"
+,06,Internal FD&C Recharge Services,"308,389.45","310,192.20","310,192.20","310,192.20","310,192.20"
+ ,06.601,FD&C Project Administration,"39,066.50","39,066.50","39,066.50","39,066.50","39,066.50"
+ ,06.602,FD&C Project Management,"9,250.00","9,250.00","9,250.00","9,250.00","9,250.00"
+ ,06.603,FD&C Project Engineering/Mechanical/Electrical/Civil,"151,127.00","151,127.00","151,127.00","151,127.00","151,127.00"
+ ,06.604,FD&C Contracts Office,"14,022.70","15,825.45","15,825.45","15,825.45","15,825.45"
+ ,06.605,FD&C IOR/Construction Inspection,"74,000.00","74,000.00","74,000.00","74,000.00","74,000.00"
+ ,06.606,Capital Planning/Campus Budget Office,0.00,0.00,0.00,0.00,0.00
+ ,06.607,FD&C Project Specialist,"20,923.25","20,923.25","20,923.25","20,923.25","20,923.25"
+ ,06.608,FD&C Fiscal Office,0.00,0.00,0.00,0.00,0.00
+ ,06.609,Physcial/Community Planning Office,0.00,0.00,0.00,0.00,0.00
+ ,06.610,Auxiliary & Plant Services Offices,0.00,0.00,0.00,0.00,0.00
+ ,06.611,Environmental Health and Safety Office,0.00,0.00,0.00,0.00,0.00
+ ,06.612,UCSD Sustainablity Initiatives,0.00,0.00,0.00,0.00,0.00
+ ,06.699,Other UCSD Employee Recharge Services',0.00,0.00,0.00,0.00,0.00
+,07,"Advertisement, Surveys, Soils Reports, Material Testing & Special Inspection, Reproduction Costs","19,663.55","19,663.55","19,663.55","19,663.55","19,663.55"
+ ,07.701,Publishing and Advertising Costs,0.00,0.00,0.00,0.00,0.00
+ ,07.702,Boundary and Topographic Surveys,0.00,0.00,0.00,0.00,0.00
+ ,07.703,"Soils, Geology, Foundation Recommendations, Hydrology","9,462.50","9,462.50","9,462.50","9,462.50","9,462.50"
+ ,07.704,Material & Workmanship Testing & Inspection,0.00,0.00,0.00,0.00,0.00
+ ,07.705,Air Balance Testing,0.00,0.00,0.00,0.00,0.00
+ ,07.706,Medical Gas Testing,0.00,0.00,0.00,0.00,0.00
+ ,07.707,Construction Document Reproduction Costs,"7,734.97","7,734.97","7,734.97","7,734.97","7,734.97"
+ ,07.708,Postal/Courier Services,98.03,98.03,98.03,98.03,98.03
+ ,07.709,"Meals, Travel & Entertainment Costs","2,081.88","2,081.88","2,081.88","2,081.88","2,081.88"
+ ,07.799,"Other Surveys, Testing, or Reproduction Costs",286.17,286.17,286.17,286.17,286.17
+,08,Special Cost Items,"74,522.50","74,522.50","74,522.50","73,557.50","73,557.50"
+ ,08.801,Loan Finance Charges/lnterest During Construction,0.00,0.00,0.00,0.00,0.00
+ ,08.802,Detailed Project Program (DPP) & Predesign Study Costs,0.00,0.00,0.00,0.00,0.00
+ ,08.803,"Environmental Review Costs, EIR Consultant & Related Costs",0.00,0.00,0.00,0.00,0.00
+ ,08.804,Coastal Commission Review,0.00,0.00,0.00,0.00,0.00
+ ,08.805,Air Pollution Control District/Air Quality Testing/Permit Fees,0.00,0.00,0.00,0.00,0.00
+ ,08.806,Wind Tunnel Testing,0.00,0.00,0.00,0.00,0.00
+ ,08.807,Value Engineering Sessions/Constructability and Peer Reviews,"1,000.00","1,000.00","1,000.00","1,000.00","1,000.00"
+ ,08.808,"Plan Check Fees including DSA, SFM, & EH&S Review Charges","5,575.50","5,575.50","5,575.50","4,610.50","4,610.50"
+ ,08.809,OSHPD Fees,0.00,0.00,0.00,0.00,0.00
+ ,08.810,Environmental Mitigation Monitoring Services,0.00,0.00,0.00,0.00,0.00
+ ,08.811,Hazardous Material Consultant,0.00,0.00,0.00,0.00,0.00
+ ,08.812,Special Design Consultants (Other),0.00,0.00,0.00,0.00,0.00
+ ,08.813,Independent Seismic & Lateral Plan/Calc Review,0.00,0.00,0.00,0.00,0.00
+ ,08.814,Internal FD&C Special Recharge Services,0.00,0.00,0.00,0.00,0.00
+ ,08.815,Legal Fees,0.00,0.00,0.00,0.00,0.00
+ ,08.816,"Interior Designer, Graphic Designer, Color Consultant","1,800.00","1,800.00","1,800.00","1,800.00","1,800.00"
+ ,08.817,"Pre-Construction Services/CMAR or CMGC Delivery, Part 1",0.00,0.00,0.00,0.00,0.00
+ ,08.818,"Hazardous Materials Testing, Environmental Soils Sampling",0.00,0.00,0.00,0.00,0.00
+ ,08.819,Off-Site Environment Mitigation,0.00,0.00,0.00,0.00,0.00
+ ,08.820,Parking Impact Charges,"66,147.00","66,147.00","66,147.00","66,147.00","66,147.00"
+ ,08.821,"LEED Consulting Serv,, USGBC Fees, and Other Sustainability Consult,",0.00,0.00,0.00,0.00,0.00
+ ,08.822,"Special Design Consult, (ADA, Acoustic, Lab, Light,, Roof,, Traffic)",0.00,0.00,0.00,0.00,0.00
+ ,08.823,As-Built Building Survey/Documentation of Existing Conditions,0.00,0.00,0.00,0.00,0.00
+ ,08.824,"Building Commissioning Costs, Fundamental and Enhanced",0.00,0.00,0.00,0.00,0.00
+ ,08.825,BIM Modeling/Building Models,0.00,0.00,0.00,0.00,0.00
+ ,08.826,Art Work,0.00,0.00,0.00,0.00,0.00
+ ,08.827,Local Jurisdiction Fees/Potable & Reclaimed WaterlSewerlSDGE,0.00,0.00,0.00,0.00,0.00
+ ,08.828,Other Campus Recharges,0.00,0.00,0.00,0.00,0.00
+ ,08.899,Other Special Items,0.00,0.00,0.00,0.00,0.00
+,09,"Construction Contingency, Potential Unknown Factors","20,233.35",0.00,"20,233.35",0.00,0.00
+ ,09.999,Project Contingency,"20,233.35",0.00,"20,233.35",0.00,0.00
+ ,"Total 
+Schedule Percent Complete", ,"7,500,000.00","7,481,389.40","7,573,403.65","7,393,865.07","7,393,865.07"

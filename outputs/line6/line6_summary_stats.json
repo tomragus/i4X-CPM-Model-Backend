@@ -1,0 +1,14 @@
+{
+  "Small": {
+    "n_projects": 1,
+    "median_line6_pct": 100.0,
+    "min_line6_pct": 100.0,
+    "max_line6_pct": 100.0,
+    "median_project_total": 5797.0,
+    "top3_subcategories": {
+      "Project Management": 100.0,
+      "Auxiliary & Plant Servicess": 0.0,
+      "Capital Planning/Campus Budget": 0.0
+    }
+  }
+}

@@ -12,7 +12,7 @@ On this updated version trained on ~200 projects we are up to:
 **-Total Cost Curves: R^2 = 0.622**
 **-Line 6 Curves: R^2 = 0.7558**
 
-### 👉 [Front-end on Vercel](https://ucsd-capital-analytics.vercel.app) (will be updated soon)
+### 👉 [Published site](https://ucsd-project-capital-analytics.vercel.app/)
 
 ![WhatsApp Image 2026-03-26 at 21 04 57](https://github.com/user-attachments/assets/124c1149-4690-4903-9e1b-c39e890e367e)
 

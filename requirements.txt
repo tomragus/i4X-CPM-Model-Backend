@@ -1,3 +1,9 @@
 pandas
 numpy
-pathlib
+scipy
+matplotlib
+scikit-learn
+xgboost
+lightgbm
+joblib
+streamlit

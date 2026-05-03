@@ -11,6 +11,9 @@ st.markdown("""
 <style>
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700&family=Barlow:wght@400;600&display=swap');
 
+:root {
+    color-scheme: light only;
+}
 html, body, [class*="css"] {
     font-family: 'Barlow', sans-serif;
     font-size: 18px;

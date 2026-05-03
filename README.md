@@ -1,6 +1,5 @@
 # i4X-CPM-Model-Backend
 
-# Deployed app:
 ### 👉 [Simple version](https://i4x-capital-project-cashflow-predictor.streamlit.app/)
 ### 👉 [Full version](https://ucsd-project-capital-analytics.vercel.app/) (slightly buggy)
 

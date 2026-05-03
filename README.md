@@ -1,7 +1,7 @@
 # i4X-CPM-Model-Backend
 
 # Deployed app:
-### 👉 [Simple version](https://i4x-cpm-s-curve-generator.streamlit.app/)
+### 👉 [Simple version](https://i4x-capital-project-cashflow-predictor.streamlit.app/)
 ### 👉 [Full version](https://ucsd-project-capital-analytics.vercel.app/) (slightly buggy)
 
 This is a web app tool for Capital Program Management at UC San Diego, which utilizes machine learning models to predict a cumulative cost for a planned project given only Projected Budget, Projected Commitments, Estimate at Completion, and Gross Sq Footage - the user can choose between Total Cost and Line 6 Cost.
@@ -9,7 +9,7 @@ This is a web app tool for Capital Program Management at UC San Diego, which uti
 ***How it works:***
 Users can engage with the app in two ways - they can upload a Cash Flow CSV for a given project directly from Unity Construct, OR simply type in the Projected Budget, Projected Commitments, Estimate at Completion, and Gross Sq Footage values manually. Then, an ensemble of machine learning models will quickly generate an S-curve, as well as display the estimated duration in months, growth rate of the curve, and the estimated midpoint of the curve. Hover over the curve to see the projected cumulative cost at any given month in the project cycle!
 
-<img width="979" height="637" alt="Screenshot 2026-05-02 at 5 39 30 PM" src="https://github.com/user-attachments/assets/a98e4882-8540-4902-a35d-34ded9834d93" />
+<img width="952" height="708" alt="Screenshot 2026-05-02 at 9 46 55 PM" src="https://github.com/user-attachments/assets/ff3d6e1c-035f-4548-92a8-2288b9f2de35" />
 
 The machine learning models were trained on ~200 projects we are up to a top accuracy of:
 

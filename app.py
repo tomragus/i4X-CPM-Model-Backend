@@ -7,6 +7,95 @@ from pathlib import Path
 
 st.set_page_config(page_title="CPM S-Curve Generator", layout="wide")
 
+st.markdown("""
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@400;600;700&family=Barlow:wght@400;600&display=swap');
+
+html, body, [class*="css"] {
+    font-family: 'Barlow', sans-serif;
+    font-size: 18px;
+    color: #0D1B2A;
+}
+.stApp {
+    background-color: #FFFFFF;
+}
+[data-testid="stSidebar"] {
+    background-color: #EEF2F7;
+}
+h1 {
+    font-family: 'Barlow Condensed', sans-serif;
+    font-weight: 700;
+    font-size: 42px !important;
+    color: #0D1B2A;
+    letter-spacing: 0.02em;
+}
+[data-testid="stSidebar"] h1 {
+    font-size: 24px !important;
+    border-bottom: 3px solid #F5C518;
+    padding-bottom: 8px;
+    margin-bottom: 16px;
+}
+label, .stRadio label p, .stNumberInput label, .stTextInput label,
+.stFileUploader label {
+    font-family: 'Barlow Condensed', sans-serif !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    color: #0D1B2A !important;
+}
+input[type="number"], input[type="text"] {
+    font-family: 'Barlow', sans-serif !important;
+    font-size: 18px !important;
+}
+.stRadio div[role="radiogroup"] label {
+    font-size: 18px !important;
+}
+.stButton > button {
+    font-family: 'Barlow Condensed', sans-serif !important;
+    font-size: 18px !important;
+    font-weight: 700 !important;
+    background-color: #F5C518 !important;
+    color: #0D1B2A !important;
+    border: none !important;
+    border-radius: 6px !important;
+    padding: 10px 0 !important;
+    letter-spacing: 0.05em;
+}
+.stButton > button:hover {
+    background-color: #17C3B2 !important;
+    color: #FFFFFF !important;
+}
+[data-testid="stMetric"] {
+    background-color: #EEF2F7;
+    border-left: 5px solid #17C3B2;
+    border-radius: 6px;
+    padding: 16px 20px;
+}
+[data-testid="stMetricLabel"] p {
+    font-family: 'Barlow Condensed', sans-serif !important;
+    font-size: 18px !important;
+    font-weight: 600 !important;
+    color: #0D1B2A !important;
+}
+[data-testid="stMetricValue"] {
+    font-family: 'Barlow Condensed', sans-serif !important;
+    font-size: 26px !important;
+    font-weight: 700 !important;
+    color: #17C3B2 !important;
+}
+[data-testid="stInfo"] {
+    font-family: 'Barlow', sans-serif !important;
+    font-size: 18px !important;
+    border-left: 5px solid #17C3B2 !important;
+    background-color: #EEF2F7 !important;
+    color: #0D1B2A !important;
+}
+[data-testid="stAlert"] {
+    font-size: 18px !important;
+    font-family: 'Barlow', sans-serif !important;
+}
+</style>
+""", unsafe_allow_html=True)
+
 CONSTANTS = {
     "Total": {
         "mean_sq_ft": 86243.0147,
@@ -162,7 +251,7 @@ def make_figure(duration, k, t0, L, project_code, mode):
         x=x_data,
         y=y_data,
         mode="lines",
-        line=dict(color="#2ca02c", width=3),
+        line=dict(color="#17C3B2", width=3),
         name="Parameterized S-Curve",
         customdata=hover_labels,
         hovertemplate="Month: %{x}<br>Cost: %{customdata}<extra></extra>",
@@ -182,7 +271,9 @@ def make_figure(duration, k, t0, L, project_code, mode):
             gridcolor="#CCCCCC",
         ),
         legend=dict(x=0.01, y=0.99),
-        plot_bgcolor="white",
+        plot_bgcolor="#FFFFFF",
+        paper_bgcolor="#FFFFFF",
+        font=dict(family="Barlow Condensed, sans-serif", size=16, color="#0D1B2A"),
         height=400,
     )
     return fig

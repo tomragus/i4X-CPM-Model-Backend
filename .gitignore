@@ -5,6 +5,7 @@ __pycache__/
 
 # extras
 .DS_Store
+*.csv
 
 
 # C extensions

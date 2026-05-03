@@ -106,7 +106,7 @@ CONSTANTS = {
             "t0":       "trained_models/S_Curve_t0_model_v2.joblib",
         },
     },
-    "Line 6": {
+    "PM Fees and Overhead": {
         "mean_sq_ft": 86068.1878,
         "median_budget_per_sqft": 12.4897,
         "models": {
@@ -243,7 +243,7 @@ def make_figure(duration, k, t0, L, project_code, mode):
     title = (
         f"Standardized S-Curve: Project {project_code}"
         if mode == "Total"
-        else f"Standardized S-Curve (Line 6): Project {project_code}"
+        else f"Standardized S-Curve (PM Fees & Overhead): Project {project_code}"
     )
 
     fig = go.Figure()
@@ -281,9 +281,9 @@ def make_figure(duration, k, t0, L, project_code, mode):
 
 # ── Sidebar ──────────────────────────────────────────────────────────────────
 with st.sidebar:
-    st.title("CPM S-Curve Generator")
-    input_method = st.radio("Input Method", ["CSV Upload", "Raw Input"])
-    mode = st.radio("Curve Type", ["Total", "Line 6"])
+    st.title("Capital Project Cashflow Predictor")
+    input_method = st.radio("Input Method", ["CSV Upload", "Manual Entry"])
+    mode = st.radio("Curve Type", ["Total", "PM Fees and Overhead"])
 
     if input_method == "CSV Upload":
         uploaded_file = st.file_uploader("Upload Project CSV", type="csv")
@@ -298,7 +298,11 @@ with st.sidebar:
     generate = st.button("Generate S-Curve", use_container_width=True)
 
 # ── Main area ─────────────────────────────────────────────────────────────────
-st.title("CPM S-Curve Generator")
+title_col, logo_col = st.columns([5, 1])
+with title_col:
+    st.title("Capital Project Cashflow Predictor")
+with logo_col:
+    st.image("logo.png", width=140)
 
 if generate:
     if input_method == "CSV Upload":
@@ -344,4 +348,4 @@ if generate:
         col2.metric("Growth Rate (k)", f"{k:.4f}")
         col3.metric("Midpoint (t₀)", f"{t0:.1f} months")
 else:
-    st.info("Configure inputs in the sidebar and click **Generate S-Curve** to run the prediction.")
+    st.info("This tool predicts how capital project spending will unfold over time. Input your project's parameters and generate a cash flow S-curve to support planning and budget forecasting.")

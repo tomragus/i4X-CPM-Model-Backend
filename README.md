@@ -2,7 +2,7 @@
 
 # Deployed app:
 ### 👉 [Simple version](https://i4x-cpm-s-curve-generator.streamlit.app/)
-### 👉 [Full version](https://ucsd-project-capital-analytics.vercel.app/)
+### 👉 [Full version](https://ucsd-project-capital-analytics.vercel.app/) (slightly buggy)
 
 This is a web app tool for Capital Program Management at UC San Diego, which utilizes machine learning models to predict a cumulative cost for a planned project given only Projected Budget, Projected Commitments, Estimate at Completion, and Gross Sq Footage - the user can choose between Total Cost and Line 6 Cost.
 
